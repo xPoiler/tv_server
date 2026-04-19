@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-name="Rai 1" group-title="RAI",Rai 1
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/playlist_ma.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1776580215&tof=86400&tk2=ba9718960a97b6ec811b39ef2750fbbf709c8b3660a048bd5f55b2410fedfdbd
+#EXTINF:-1 tvg-chno="2" tvg-name="Rai 2" group-title="RAI",Rai 2
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1776580215&tof=86400&tk2=1a6388edc67798c46464938636fd2b4b231b4d445768e218f00e41e9f76d16dd
+#EXTINF:-1 tvg-chno="3" tvg-name="Rai 3" group-title="RAI",Rai 3
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/playlist_ma.m3u8?baseuri=%2Fraitre1%2Fhls%2F&tstart=0&tend=1776580216&tof=86400&tk2=57f17ed9af5cad63fc3f078622288530c887646d032ede476927cf8cdaa089d5
+#EXTINF:-1 tvg-chno="21" tvg-name="Rai 4" group-title="RAI",Rai 4
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/playlist_ma.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1776580216&tof=86400&tk2=c8f341df9f828ebe17d2c2270e34e9fb6deff2160ea6ecadb3dc5593d0b2f216
+#EXTINF:-1 tvg-chno="23" tvg-name="Rai 5" group-title="RAI",Rai 5
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/playlist_ma.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1776580216&tof=86400&tk2=bb4a59a0837fc00bd5ec8c0925699683afba97b9406cc2b31d4b115d8fdf1172
+#EXTINF:-1 tvg-chno="24" tvg-name="Rai Movie" group-title="RAI",Rai Movie
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/playlist_ma.m3u8?baseuri=%2Fraimovie1%2Fhls%2F&tstart=0&tend=1776580217&tof=86400&tk2=121213e4b2e02b3bf4ddee6e6741663cd6a9b5fe89a201ff65c4e8f1f585e48b
+#EXTINF:-1 tvg-chno="25" tvg-name="Rai Premium" group-title="RAI",Rai Premium
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raipremium1/hls/playlist_ma.m3u8?baseuri=%2Fraipremium1%2Fhls%2F&tstart=0&tend=1776580217&tof=86400&tk2=136a49338a56b612cdeeecb86ef4a7461d975200b02778e5b97651ce55f4179d
+#EXTINF:-1 tvg-chno="42" tvg-name="Rai Gulp" group-title="RAI",Rai Gulp
+https://raigulp1-live.akamaized.net/hls/live/598332/raigulp1/raigulp1/playlist_ma.m3u8?hdnea=st=1776580037~exp=1776580187~acl=/*~hmac=9423e471529cc0d7797a0f0c374e3446f5b061a95573fa3d4997596ba1d588e8
+#EXTINF:-1 tvg-chno="43" tvg-name="Rai YoYo" group-title="RAI",Rai YoYo
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/playlist_mo.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1776580218&tof=86400&tk2=7224875340a7387bdfcad31fb07fb51580d0faa77ddd4fcfcd7d2a8b067094f7
+#EXTINF:-1 tvg-chno="54" tvg-name="Rai Storia" group-title="RAI",Rai Storia
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/playlist_mo.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1776580218&tof=86400&tk2=6591ed65db819351e2d8e7dbe39d66dad032b02e3681d36e68ff82d3bd1ab12d
+#EXTINF:-1 tvg-chno="57" tvg-name="Rai Scuola" group-title="RAI",Rai Scuola
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiscuola1/hls/playlist_mo.m3u8?baseuri=%2Fraiscuola1%2Fhls%2F&tstart=0&tend=1776580218&tof=86400&tk2=a58d526220dc1ece59e1098d6da1b2a8903e339e7da60519cde112d11b740b82
+#EXTINF:-1 tvg-chno="100" tvg-name="Rai News 24" group-title="RAI",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1776580039~exp=1776580189~acl=/*~hmac=d1b3ebde22abd5b55066328ada437e0fb38e8146e219b22bd360f9de122ca3e9
+#EXTINF:-1 tvg-chno="101" tvg-name="Rai Sport" group-title="RAI",Rai Sport
+https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8?hdnea=st=1776580039~exp=1776580189~acl=/*~hmac=d1b3ebde22abd5b55066328ada437e0fb38e8146e219b22bd360f9de122ca3e9
+#EXTINF:-1 tvg-chno="4" tvg-name="Rete 4" group-title="Mediaset",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-name="Canale 5" group-title="Mediaset",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-name="Italia 1" group-title="Mediaset",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-name="20 Mediaset" group-title="Mediaset",20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-name="Iris" group-title="Mediaset",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-name="Twentyseven" group-title="Mediaset",Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-name="La 5" group-title="Mediaset",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-name="Cine34" group-title="Mediaset",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-name="Focus" group-title="Mediaset",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-name="Top Crime" group-title="Mediaset",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-name="Italia 2" group-title="Mediaset",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-name="TGCOM24" group-title="Mediaset",TGCOM24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-name="Mediaset Extra" group-title="Mediaset",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-name="Real Time" group-title="Discovery",Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-name="DMAX" group-title="Discovery",DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-name="Food Network" group-title="Discovery",Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-name="La7" group-title="La7",La7
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-name="TV 2000" group-title="Altro",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-name="La7 Cinema" group-title="La7",La7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-name="QVC" group-title="Shopping",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-chno="150" tvg-name="Rakuten Action Movies" group-title="Rakuten TV",Rakuten Action Movies
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-name="Rakuten Comedy Movies" group-title="Rakuten TV",Rakuten Comedy Movies
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-name="Rakuten Drama Movies" group-title="Rakuten TV",Rakuten Drama Movies
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-name="Rakuten Family Movies" group-title="Rakuten TV",Rakuten Family Movies
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-name="Rakuten Top Movies" group-title="Rakuten TV",Rakuten Top Movies
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-name="Sportitalia" group-title="LG Channels",Sportitalia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
